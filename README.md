@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there 👋 i'm Flutter developer.
+
+[![](https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=dart)](https://dart.dev/) [![](https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter)](http://flutter.dev/) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chevic4&show_icons=true&count_private=true)
+
+---  
+## my projects
+
+[![test task nov 2024](https://github-readme-stats.vercel.app/api/pin/?username=chevic4&repo=flutter_vict_app)]([https://github.com/PlugFox/spinify](https://github.com/chevic4/flutter_vict_app)) 
+
+
+
 
 <!--
 **chevic4/chevic4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
