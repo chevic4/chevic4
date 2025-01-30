@@ -7,7 +7,7 @@
 ---  
 ## my projects
 
-[![test task nov 2024](https://github-readme-stats.vercel.app/api/pin/?username=chevic4&repo=flutter_vict_app)]([https://github.com/PlugFox/spinify](https://github.com/chevic4/flutter_vict_app)) 
+[![test task nov 2024](https://github-readme-stats.vercel.app/api/pin/?username=chevic4&repo=flutter_vict_app)](https://github.com/chevic4/flutter_vict_app)) 
 
 
 
